@@ -1,0 +1,23 @@
+name: Matt Neubauer
+favicon: null
+layout_spectrum: 0.22726677171885967
+typography_spectrum: 0.41934234485961497
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.311077467398718
+  lightness: 0.8306123451329768
+  saturation: 0.206993198255077
+  rhythmicContrast: 0.9195133023895323
+purpose: []
